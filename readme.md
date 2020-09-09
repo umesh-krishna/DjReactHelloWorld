@@ -1,5 +1,3 @@
-Configuring Frontend
+###### **Reference**
 
-cd to frontend
-1. npm install -g create-react-app
-2. create-react-app reactapp
+https://wsvincent.com/django-rest-framework-react-tutorial/
